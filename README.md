@@ -51,6 +51,7 @@ Niektóre wymagają przepisania, niektóre trzeba poprawić do niektórych trzeb
 - Algorytm dwóch najbliższych punktów
 - Drzewa dwumianowe leniwe
 - Counting sort
+- Algorytm Boruvki
 
 Nie zaczęte (41):
 
@@ -90,7 +91,6 @@ Jeśli jest imię przy rozdziale, oznacza to, że temat jest już zaklepany
 - Algorytm D&Z otoczki wypukłej
 - LCS 
 - Algorytm Karatsuby
-- Algorytm Boruvki
 - Kruskal
 - Prim
 - Statystyki pozycyjne
